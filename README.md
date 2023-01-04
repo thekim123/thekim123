@@ -18,7 +18,7 @@
   
   <br>
   <div align=center><h1>🔭 Cowork Stack</h1></div>
-
+<div align=center>
  <img alt="Notion" src="https://camo.githubusercontent.com/4979e45e10b9b975d406df3f809e7ae50d217cb8e7cde12d79b7986992ede2a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d3030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4e6f74696f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Notion-000000.svg?&amp;style=for-the-badge&amp;logo=Notion&amp;logoColor=white" style="max-width: 100%;">
 <img alt="GitHub" src="https://camo.githubusercontent.com/442dda82940218cc39b71c97ae42c317d7548342a3aafa973fa72549c901419d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731372e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-181717.svg?&amp;style=for-the-badge&amp;logo=GitHub&amp;logoColor=white" style="max-width: 100%;">
 <img alt="Slack" src="https://camo.githubusercontent.com/eb94304ef4a81c2f06ed1d4c03e46ac9d94383b5c5b92cbb8e0a5822ad03e692/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536c61636b2d3441313534422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d536c61636b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Slack-4A154B.svg?&amp;style=for-the-badge&amp;logo=Slack&amp;logoColor=white" style="max-width: 100%;">
