@@ -14,9 +14,3 @@ Java / Spring Boot / Kafka / Linux / Performance Optimization
 - Async Processing / Messaging
 - Linux / Performance Tuning
 - AI System Integration
-
-## Featured Repositories
-- search-pipeline-optimization
-- kafka-async-poc
-- xml-parsing-benchmark
-- deployment-automation
